@@ -1,0 +1,22 @@
+{
+  "name": "TallyO — Simple Business & Inventory Management",
+  "short_name": "TallyO",
+  "description": "Simple product, sales and purchase tracking for small businesses.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#f7f8fb",
+  "theme_color": "#6d5dfc",
+  "lang": "en",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%236d5dfc'/%3E%3Cpath d='M128 176h256v160H128z' fill='white' opacity='.96'/%3E%3Cpath d='M160 144h192v48H160z' fill='white'/%3E%3Cpath d='M176 216h160v40H176zm0 64h112v40H176z' fill='%236d5dfc'/%3E%3Ccircle cx='336' cy='300' r='20' fill='%236d5dfc'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
